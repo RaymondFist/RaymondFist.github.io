@@ -1,1 +1,6 @@
-# Hello World
+---
+layout: home
+title: Home
+---
+
+Hello, every buddy, I am Richmond Chen. I am come from China.
